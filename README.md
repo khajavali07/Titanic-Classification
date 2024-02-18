@@ -1,0 +1,5 @@
+                                  TITANIC CLASSIFICATION
+Here this task titanic classification is a good task for the data scientists.It involves predicting passenger survival on the large sized ship basing on various features.This taask falls under the umbrella classification in data science,where we aim to assign each passenger to one of two classes: survived YES (Or) NO.
+  data scientists employ a variety of machine learning algorithms such as decision treea,random forests,logistic regression and support vector machines to tackle this problem.we got data sets from 'kaggle' and the csv dataset is proccesed ,cleaned the data ,handled the missing values and engineer new features to improve model performance.
+    Once the dataset is proccesed the trained and validation, evalution metrics like accuracy ,precision ,recall and f-1 score are used to measure their performance. 
+      The Titanic dataset serves as a great introduction to classification problems in data science and helps practitioners refine their skills while exploring the tragic history of the ship 
